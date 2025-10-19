@@ -1,0 +1,34 @@
+Acension number	Variant
+DQ182595.1	SARS coronavirus ZJ0301
+GU553363.1	SARS coronavirus HKU-39849
+MN996532.2	Bat coronavirus RaTG13
+JX993987.1	Bat coronavirus Rp/Shaanxi2011
+DQ022305.2	Bat SARS coronavirus HKU3-1
+MZ344997.1	Alpha
+MW598419.1	Beta
+MZ009823.1	Delta
+MW453103.1	Epsilon
+MW560924.1	Eta
+MW642250.1	Gamma
+MW643362.1	Iota
+MW966601.1	Kappa
+MW850639.1	Lambda
+NC_045512.2	19A_Wuhan-Hu-1
+OL672836.1	Omicron BA.1
+OM371884.1	Omicron BA.2
+OM958567.1	Omicron BA.2.12.1
+ON990685.1	Omicron BA.2.75
+ON373214.1	Omicron BA.4
+ON249995.1	Omicron BA.5
+OP412163.1	Omicron BQ.1.1
+OQ873579.1	Omicron EG.5.1
+OP790748.1	Omicron XBB.1.5
+NA	Unknown1
+NA	Unknown2
+NA	Unknown3
+NA	Unknown4
+NA	Unknown5
+NA	Unknown6
+NA	Unknown7
+NA	Unknown8
+NA	Unknown9
